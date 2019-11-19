@@ -37,6 +37,22 @@ public class DisplayFunc {
         System.out.println("ParrotTrouble = " + ParrotTrouble.parrotTroubleResolution(randBoolOne, timeHour));
         System.out.println("PosNeg = " + PosNeg.posNegSolution(numbRandFive, numbRandSix, randBoolOne));
         System.out.println("FrontBack = " + FrontBack.frontBackSolution(word));
+        System.out.println("Or35 = " + Or35.or35Solution(numbRandOne));
+        System.out.println("IcyHot = " + IcyHot.icyHotSolution(numbRandFive, numbRandSix));
+        System.out.println("LoneTeen = " + LoneTeen.loneTeenSolution(numbRandOne, numbRandTwo));
+        System.out.println("StartOz = " + StartOz.startOzSolution(word));
+        System.out.println("In3050 = " + In3050.in3050Solution(numbRandOne, numbRandTwo));
+        System.out.println("LastDigit = " + LastDigit.lastDigitSolution(numbRandOne, numbRandTwo));
+        System.out.println("SumDouble = " + SumDouble.sumDoubleSolution(numbRandOne, numbRandTwo));
+        System.out.println("Makes10 = " + Makes10.makes10Solution(numbRandOne, numbRandTwo));
+        System.out.println("NotString = " + NotString.notStringSolution(word));
+        System.out.println("Front3 = " + Front3.front3Solution(word));
+        System.out.println("Front22 = " + Front22.front22Solution(word));
+        System.out.println("In1020 = " + In1020.in1020Solution(numbRandOne, numbRandTwo));
+        System.out.println("DelDel = " + DelDel.delDelSolution(word));
+        System.out.println("IntMax = " + IntMax.intMaxSolution(numbRandOne,numbRandTwo,numbRandFive));
+        System.out.println("Max1020 = " + Max1020.max1020Solution(numbRandOne, numbRandTwo));
+        System.out.println("EndUp = " + EndUp.endUpSolution(word));
 
     }
 
