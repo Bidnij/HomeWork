@@ -53,6 +53,14 @@ public class DisplayFunc {
         System.out.println("IntMax = " + IntMax.intMaxSolution(numbRandOne,numbRandTwo,numbRandFive));
         System.out.println("Max1020 = " + Max1020.max1020Solution(numbRandOne, numbRandTwo));
         System.out.println("EndUp = " + EndUp.endUpSolution(word));
+        System.out.println("HelloName = " + HelloName.helloNameSolution(word3));
+        System.out.println("MakeAbba = " + MakeAbba.makeAbbaSolution(word, word3));
+        System.out.println("MakeTags = " + MakeTags.makeTagsSolution(word3, word));
+        System.out.println("MakeOutWord = " + MakeOutWord.makeOutWordSolution("<<>>", word));
+        System.out.println("ExtraEnd = " + ExtraEnd.extraEndSolution(word));
+        System.out.println("FirstTwo = " + FirstTwo.firstTwo(word));
+
+
 
     }
 
