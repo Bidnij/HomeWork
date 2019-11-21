@@ -59,6 +59,15 @@ public class DisplayFunc {
         System.out.println("MakeOutWord = " + MakeOutWord.makeOutWordSolution("<<>>", word));
         System.out.println("ExtraEnd = " + ExtraEnd.extraEndSolution(word));
         System.out.println("FirstTwo = " + FirstTwo.firstTwo(word));
+        System.out.println("FirstHalf = " +  FirstHalf.firstHalfSolution(word));
+        System.out.println("WithoutEnd = " + WithoutEnd.withoutEndSolution(word));
+        System.out.println("ComboString = " + ComboString.comboStringSolution(word3, word));
+        System.out.println("NonStart = " + NonStart.nonStartSolution(word, word3));
+        System.out.println("Left2 = " + Left2.left2Solution(word));
+        System.out.println("Right = " + Right2.right2Solution(word3));
+        System.out.println("TheEnd = " + TheEnd.theEndSolution(word, randBoolOne));
+        System.out.println("WithouEnd2 = " + WithoutEnd.withoutEndSolution(word));
+        //Test.test();
 
 
 
